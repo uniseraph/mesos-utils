@@ -4,3 +4,4 @@ target
 .idea_modules
 atlassian-ide-plugin.xml
 *.iml
+/bin/
